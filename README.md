@@ -5,5 +5,5 @@ PASSPART_MAP é um aplicativo que apresenta, contextualiza e relaciona as obras 
 - [https://github.com/VictorSouza0106/art-tech](https://github.com/VictorSouza0106/art-tech)
 
 ## Vídeos 
-- [https://www.youtube.com/watch?v=gq7_E5EHj50](https://www.youtube.com/watch?v=gq7_E5EHj50)
-- [https://youtu.be/m3v0Jy6s4zk](https://youtu.be/m3v0Jy6s4zk)
+- Pitch [https://www.youtube.com/watch?v=gq7_E5EHj50](https://www.youtube.com/watch?v=gq7_E5EHj50)
+- Demo [https://youtu.be/m3v0Jy6s4zk](https://youtu.be/m3v0Jy6s4zk)
